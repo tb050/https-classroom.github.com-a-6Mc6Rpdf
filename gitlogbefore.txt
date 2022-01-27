@@ -1,0 +1,11 @@
+commit 5100d3600bb5da9eb20e07315e755c1fb557fe57
+Author: Ty Brien-MATC <tbrien@madisoncollege.edu>
+Date:   Thu Jan 27 11:53:50 2022 -0600
+
+    Added a new file
+
+commit 23cf153fd163a0006cce720a1550be10b8977f93
+Author: Ty Brien-MATC <tbrien@madisoncollege.edu>
+Date:   Thu Jan 27 11:35:38 2022 -0600
+
+    Initial commit of GitHub exercise
