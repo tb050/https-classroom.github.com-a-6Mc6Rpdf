@@ -1,0 +1,5 @@
+commit 23cf153fd163a0006cce720a1550be10b8977f93
+Author: Ty Brien-MATC <tbrien@madisoncollege.edu>
+Date:   Thu Jan 27 11:35:38 2022 -0600
+
+    Initial commit of GitHub exercise
