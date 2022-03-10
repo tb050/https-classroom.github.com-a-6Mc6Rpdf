@@ -1,6 +1,5 @@
 # Author: Ty Brien
-# Description:
-from email.quoprimime import quote
+# Description: Midterm part 3
 
 
 print("Name: Ty Brien")
